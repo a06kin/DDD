@@ -1,0 +1,19 @@
+{
+  "flare": {
+    "physics": {
+      "DragForce": 1082,
+      "GravityForce": 1336,
+      "IForce": 319,
+      "NBodyForce": 10498,
+      "Particle": 2822,
+      "Simulation": 9983,
+      "Spring": 2213,
+      "SpringForce": 1681
+	}
+  },
+	"test": {
+	"physics2": {
+		  "DragForce2": 10822
+		}
+	}
+}
